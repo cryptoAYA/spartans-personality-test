@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
     { src: "images/spartans10.jpeg", message: "You are a Knight Warrior Spartan!" },
     { src: "images/spartans11.jpeg", message: "You are a Mage Warrior Spartan!" },
     { src: "images/spartans12.jpeg", message: "You are a Wealthy Pirate Spartan!" },
-    { src: "images/spartans13.jpeg", message: "You are a Helm-Wearing Warrior Spartan!" }
+    { src: "images/spartans13.png", message: "You are a Helm-Wearing Warrior Spartan!" }
   ];
   
   form.addEventListener("submit", function(e) {
